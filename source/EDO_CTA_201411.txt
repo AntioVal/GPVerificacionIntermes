@@ -1,0 +1,263 @@
+00|SME060316PB2
+01|1896|FID012PMA0111|del 01 al 19 de noviembre de 2014|0.00|0.00|0.00|0.00|0.00|0.00|0.00|contadorgeneral@pymasagrupo.com.mx||yesenia-rodriguez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1897|FID014PYM0111|del 01 al 19 de noviembre de 2014|31577.11|0.00|0.00|31577.11|0.00|0.00|0.00|sugey.p@hotmail.com,rfranco@pymasagrupo.com.mx||yesenia-rodriguez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|03/nov/2014|ORDEN DE LIQUIDACION| |31577.11|0.00|0.00
+01|1898|FID016COI0111|del 01 al 19 de noviembre de 2014|0.00|0.00|0.00|0.00|0.00|0.00|0.00|crosas@gpoibarra.com,leticia.hernandez@gpoibarra.com||jesus-aceves@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1900|FID018BMS0111|del 01 al 19 de noviembre de 2014|8527.49|0.00|0.00|8527.49|0.00|0.00|0.00|zambel_esme@hotmail.com||yesenia-rodriguez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|03/nov/2014|ORDEN DE LIQUIDACION| |8527.49|0.00|0.00
+01|1901|FID019CCC0111|del 01 al 19 de noviembre de 2014|0.00|0.00|0.00|0.00|0.00|0.00|0.00|recursoshumanos@countryclubculiacan.com||yesenia-rodriguez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1903|FID020TPO0111|del 01 al 19 de noviembre de 2014|0.00|0.00|0.00|0.00|0.00|0.00|0.00|contabilidad@tecnika.com.mx||yesenia-rodriguez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1904|FID021GAA0211|del 01 al 19 de noviembre de 2014|0.00|0.00|0.00|0.00|0.00|0.00|0.00|ecabrera@gaagro.com,mhuerta@gaagro.com||jesus-aceves@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1905|FID022TDA0211|del 01 al 19 de noviembre de 2014|0.00|0.00|0.00|0.00|0.00|0.00|0.00|atenorio@arteli.com.mx,mmartinez@arteli.com.mx,gbaldit@arteli.com.mx||jesus-aceves@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1906|FID023SUD0211|del 01 al 19 de noviembre de 2014|0.00|0.00|0.00|0.00|0.00|0.00|0.00|roslui1@hotmail.com,mango1@prodigy.net.mx||alina-gomez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1908|FID024CAN0211|del 01 al 19 de noviembre de 2014|0.00|0.00|0.00|0.00|0.00|0.00|0.00|m.pineda@caborey.com,admon@caborey.com||alina-gomez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1910|FID025ARO0211|del 01 al 19 de noviembre de 2014|19732.17|0.00|0.00|19732.17|0.00|0.00|0.00|roslui1@hotmail.com,mango1@prodigy.net.mx||alina-gomez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|03/nov/2014|ORDEN DE LIQUIDACION| |19732.17|0.00|0.00
+01|1911|FID026OPE0211|del 01 al 19 de noviembre de 2014|499.95|0.00|0.00|0.00|0.00|0.00|499.95|lochoa@budgetpacifico.com||alina-gomez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1913|FID027OPT0211|del 01 al 19 de noviembre de 2014|2303.07|0.00|0.00|0.00|0.00|0.00|2303.07|lochoa@budgetpacifico.com||alina-gomez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1914|FID029TAB0211|del 01 al 19 de noviembre de 2014|0.00|0.00|0.00|0.00|0.00|0.00|0.00|lochoa@budgetpacifico.com||alina-gomez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1916|FID031IAM0211|del 01 al 19 de noviembre de 2014|0.00|0.00|0.00|0.00|0.00|0.00|0.00|rodrig666@hotmail.com||jesus-aceves@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1917|FID032PTI0311|del 01 al 19 de noviembre de 2014|3076.63|0.00|0.00|0.00|0.00|0.00|3076.63|evazquez@packtag.com.mx||zulema-duran@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1918|FID033INU0311|del 01 al 19 de noviembre de 2014|525.95|9597.51|0.00|0.00|827.30|132.37|9163.79|blancal@aqualetas.com.mx,gricel@aqualetas.com.mx||zulema-duran@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|03/nov/2014|APORTACION A PATRIMONIO| |0.00|9597.51|10123.46
+02|03/nov/2014|HONORARIOS FIDUCIARIOS| |827.30|0.00|9296.16
+02|03/nov/2014|I.V.A. DE HONORARIOS FIDUCIARIOS| |132.37|0.00|9163.79
+01|1919|FID034EST0311|del 01 al 19 de noviembre de 2014|0.00|0.00|0.00|0.00|0.00|0.00|0.00|martharmayen@itj.edu.mx,martharmayen@hotmail.com||zulema-duran@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1920|FID035HST0311|del 01 al 19 de noviembre de 2014|0.00|0.00|0.00|0.00|0.00|0.00|0.00|martharmayen@hotmail.com||zulema-duran@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1921|FID036KGT0311|del 01 al 19 de noviembre de 2014|0.00|0.00|0.00|0.00|0.00|0.00|0.00|martharmayen@itj.edu.mx,martharmayen@hotmail.com||zulema-duran@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1922|FID037KPA0311|del 01 al 19 de noviembre de 2014|0.00|0.00|0.00|0.00|0.00|0.00|0.00|martharmayen@hotmail.com||zulema-duran@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1923|FID038ORM0311|del 01 al 19 de noviembre de 2014|2081.07|41020.67|0.00|0.00|3535.98|565.76|39000.00|claudiadomilo@hotmail.com,lmendoza@ortopediamostkoff.com.mx||zulema-duran@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|03/nov/2014|APORTACION A PATRIMONIO| |0.00|7687.67|9768.74
+02|03/nov/2014|HONORARIOS FIDUCIARIOS| |662.68|0.00|9106.06
+02|03/nov/2014|I.V.A. DE HONORARIOS FIDUCIARIOS| |106.03|0.00|9000.03
+02|03/nov/2014|APORTACION A PATRIMONIO| |0.00|33333.00|42333.03
+02|03/nov/2014|HONORARIOS FIDUCIARIOS| |2873.30|0.00|39459.73
+02|03/nov/2014|I.V.A. DE HONORARIOS FIDUCIARIOS| |459.73|0.00|39000.00
+01|1924|FID039GPA0311|del 01 al 19 de noviembre de 2014|9.27|0.00|0.00|0.00|0.00|0.00|9.27|rh.cardiologica@live.com.mx||alfredo-soto@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1925|FID040JMR0311|del 01 al 19 de noviembre de 2014|52091.87|0.00|0.00|0.00|0.00|0.00|52091.87|gumaropadilla@jmromo.com,martin_prado@jmromo.com||alfredo-soto@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1926|FID041GRJ0311|del 01 al 19 de noviembre de 2014|0.01|0.00|0.00|0.00|0.00|0.00|0.01|vruelas@grupojaktur.com.mx||jesus-aceves@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1927|FID042CEF0311|del 01 al 19 de noviembre de 2014|0.40|0.00|0.00|0.00|0.00|0.00|0.40|martaov@angeles.edu.mx||manuel-chavez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1928|FID043FCE0311|del 01 al 19 de noviembre de 2014|0.00|0.00|0.00|0.00|0.00|0.00|0.00|patricia.cuevas@cap.edu.mx||manuel-chavez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1929|FID044IDC0311|del 01 al 19 de noviembre de 2014|0.00|0.00|0.00|0.00|0.00|0.00|0.00|mjpardo@idc-microfinanciera.com.mx||manuel-chavez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1930|FID046IAA0311|del 01 al 19 de noviembre de 2014|0.00|0.00|0.00|0.00|0.00|0.00|0.00|vero_aldape@hotmail.com||jesus-aceves@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1932|FID047IAM0311|del 01 al 19 de noviembre de 2014|0.02|0.00|0.00|0.00|0.00|0.00|0.02|avilesguadalupe@hotmail.com||jesus-aceves@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1936|FID048DCO0311|del 01 al 19 de noviembre de 2014|0.29|0.00|0.00|0.00|0.00|0.00|0.29|hugohc@grupodicorsa.com.mx||manuel-chavez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1937|FID050SME0311|del 01 al 19 de noviembre de 2014|3408.00|0.00|0.00|0.00|0.00|0.00|3408.00|daniela.hernandez@smeltek.mx,mireya-lopez@gp.org.mx||mireya-lopez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1939|FID051ATE0411|del 01 al 19 de noviembre de 2014|1.85|0.00|0.00|0.00|0.00|0.00|1.85|Jorge.hernandez@grupoapolo.com.mx||manuel-chavez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1940|FID052CTO0411|del 01 al 19 de noviembre de 2014|0.00|0.00|0.00|0.00|0.00|0.00|0.00|Jorge.hernandez@grupoapolo.com.mx||manuel-chavez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1941|FID053IHE0411|del 01 al 19 de noviembre de 2014|0.02|0.00|0.00|0.00|0.00|0.00|0.02|Jorge.hernandez@grupoapolo.com.mx||manuel-chavez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1942|FID054SCO0411|del 01 al 19 de noviembre de 2014|0.17|0.00|0.00|0.00|0.00|0.00|0.17|Jorge.hernandez@grupoapolo.com.mx||manuel-chavez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1944|FID055HES0411|del 01 al 19 de noviembre de 2014|0.00|0.00|0.00|0.00|0.00|0.00|0.00|lupita.aguilera@hospitalsantander.com.mx||manuel-chavez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1945|FID056MMS0411|del 01 al 19 de noviembre de 2014|0.00|0.00|0.00|0.00|0.00|0.00|0.00|contable@mmsantander.com.mx||manuel-chavez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1947|FID058FOA0411|del 01 al 19 de noviembre de 2014|0.29|0.00|0.00|0.00|0.00|0.00|0.29|rh@nutremas.com.mx,contabilidad@nutremas.com.mx||alfredo-soto@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1949|FID059IAS0411|del 01 al 19 de noviembre de 2014|0.00|0.00|0.00|0.00|0.00|0.00|0.00|floravila@iasces.com,raymundopuc@iasces.com||fernando-franco@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1949|FID061IAS0411|del 01 al 19 de noviembre de 2014|0.00|0.00|0.00|0.00|0.00|0.00|0.00|andreavrivero@iasces.com,wventura@iasces.com||fernando-franco@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1951|FID062IMP0411|del 01 al 19 de noviembre de 2014|27.36|0.00|0.00|0.00|0.00|0.00|27.36|antonio.cabo.es@imex.edu.mx,salvador.cordero.csp@imex.edu.mx||manuel-chavez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1952|FID063EDC0411|del 01 al 19 de noviembre de 2014|0.00|0.00|0.00|0.00|0.00|0.00|0.00|alejandragarcia@colegiocolumbia.edu.mx,marissagalvan@colegiocolumbia.edu.mx||jesus-aceves@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1954|FID064OCA0411|del 01 al 19 de noviembre de 2014|0.00|0.00|0.00|0.00|0.00|0.00|0.00|paokaxi@hotmail.com||alina-gomez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1955|FID065NPU0411|del 01 al 19 de noviembre de 2014|45000.05|0.00|0.00|0.00|0.00|0.00|45000.05|respinosa@notaria132df.com.mx||zulema-duran@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1956|FID069EGT0411|del 01 al 19 de noviembre de 2014|271105.63|0.00|0.00|271099.45|0.00|0.00|6.18|raquel.avalos@electricagarcia.com,recursoshumanos@electricagarcia.com||jesus-aceves@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|03/nov/2014|ORDEN DE LIQUIDACION| |271099.45|0.00|6.18
+01|1899|FID070PSC0511|del 01 al 19 de noviembre de 2014|0.00|0.00|0.00|0.00|0.00|0.00|0.00|carolina.brito@pecaltex.com.mx||manuel-chavez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1902|FID074STC0911|del 01 al 19 de noviembre de 2014|0.00|0.00|0.00|0.00|0.00|0.00|0.00|lmaldonado@storecheck.com||mireya-lopez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1912|FID077GAI0112|del 01 al 19 de noviembre de 2014|0.01|0.00|0.00|0.00|0.00|0.00|0.01|abiel.arteaga@grupoarias.com.mx,amparo.villegas@grupoarias.com.mx,fernando.barrios@grupoarias.com.mx||jorge-delgado@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1938|FID078EGT0112|del 01 al 19 de noviembre de 2014|22.33|0.00|0.00|0.00|0.00|0.00|22.33|abiel.arteaga@grupoarias.com.mx,angelica.cortez@grupoarias.com.mx,fernando.barrios@grupoarias.com.mx||jesus-aceves@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1915|FID079ATI0112|del 01 al 19 de noviembre de 2014|0.00|0.00|0.00|0.00|0.00|0.00|0.00|abiel.arteaga@grupoarias.com.mx,amparo.villegas@grupoarias.com.mx,fernando.barrios@grupoarias.com.mx||jesus-aceves@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1907|FID080CVI0112|del 01 al 19 de noviembre de 2014|0.00|0.00|0.00|0.00|0.00|0.00|0.00|mariomanilla@gmail.com.mx,smendezh_251@hotmail.com||manuel-chavez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1909|FID081GEO0212|del 01 al 19 de noviembre de 2014|0.02|0.00|0.00|0.00|0.00|0.00|0.02|echavez@geoestratos.com.mx,echavez@geoe-estratos.com.mx||jesus-aceves@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1934|FID082CCH0312|del 01 al 19 de noviembre de 2014|0.00|0.00|0.00|0.00|0.00|0.00|0.00|chocosacons@hotmail.com||yesenia-rodriguez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1935|FID083ANS0312|del 01 al 19 de noviembre de 2014|1480.25|0.00|0.00|0.00|0.00|0.00|1480.25|adriana_nava_08@hotmail.com||yesenia-rodriguez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1950|FID084SED0312|del 01 al 19 de noviembre de 2014|5.85|0.00|0.00|0.00|0.00|0.00|5.85|mirari_13@hotmail.com||yesenia-rodriguez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1931|FID086BOV0612|del 01 al 19 de noviembre de 2014|0.00|0.00|0.00|0.00|0.00|0.00|0.00|beatriz.esparza@bovedas.com||veronica-moreno@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1943|FID089SGU1112|del 01 al 19 de noviembre de 2014|16.95|0.00|0.00|0.00|0.00|0.00|16.95|a.rubio@psap.com.mx,e.morales@psap.com.mx||veronica-moreno@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|2077|FID092TJE1212|del 01 al 19 de noviembre de 2014|0.00|0.00|0.00|0.00|0.00|0.00|0.00|vbeltran@itj-ze.edu.mx||zulema-duran@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1946|FID094CEP0113|del 01 al 19 de noviembre de 2014|0.00|0.00|0.00|0.00|0.00|0.00|0.00|administrativo@coparmexpuebla.org.mx||manuel-chavez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1948|FID095MIM0113|del 01 al 19 de noviembre de 2014|0.00|0.00|0.00|0.00|0.00|0.00|0.00|lcruznoche@gmail.com||zulema-duran@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1953|FID097AEE0413|del 01 al 19 de noviembre de 2014|0.00|0.00|0.00|0.00|0.00|0.00|0.00|delia-pacheco@gp.org.mx||zulema-duran@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|2100|FID098CIS0513|del 01 al 19 de noviembre de 2014|0.00|0.00|0.00|0.00|0.00|0.00|0.00|coinsanominas@prodigy.net.mx||yesenia-rodriguez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1957|FID099RPC0513|del 01 al 19 de noviembre de 2014|483.37|0.00|0.00|0.00|0.00|0.00|483.37|a.rubio@psap.com.mx||veronica-moreno@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|2845|FID100RPR0513|del 01 al 19 de noviembre de 2014|0.00|0.00|0.00|0.00|0.00|0.00|0.00|a.rubio@psap.com.mx||veronica-moreno@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1958|FID101DAL0613|del 01 al 19 de noviembre de 2014|1063.15|0.00|0.00|0.00|0.00|0.00|1063.15|adriana_nava_08@hotmail.com||yesenia-rodriguez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1959|FID102CAF0613|del 01 al 19 de noviembre de 2014|0.00|0.00|0.00|0.00|0.00|0.00|0.00|Adriana_nava_08@hotmail.com||yesenia-rodriguez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1961|FID104SHO0613|del 01 al 19 de noviembre de 2014|227122.45|0.00|0.00|0.00|0.00|0.00|227122.45|hsasaguri@interware.com.mx||jair-perez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|2872|FID105COC0613|del 01 al 19 de noviembre de 2014|0.03|0.00|0.00|0.00|0.00|0.00|0.03|adriana_nava_08@hotmail.com||yesenia-rodriguez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1962|FID107VIR0713|del 01 al 19 de noviembre de 2014|1.09|0.00|0.00|0.00|0.00|0.00|1.09|ysabel.lozoya@univia.edu.mx||yesenia-rodriguez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|2331|FID108DCC0813|del 01 al 19 de noviembre de 2014|0.35|0.00|0.00|0.00|0.00|0.00|0.35|Adriana_nava_08@hotmail.com||yesenia-rodriguez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1963|FID110TJG1213|del 01 al 19 de noviembre de 2014|2024.78|0.00|0.00|0.00|0.00|0.00|2024.78|amartinez@itj.edu.mx||mireya-lopez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1964|FID111KGG1213|del 01 al 19 de noviembre de 2014|1.33|0.00|0.00|0.00|0.00|0.00|1.33|amartinez@itj.edu.mx||mireya-lopez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1965|FID112TJV1213|del 01 al 19 de noviembre de 2014|2.22|0.00|0.00|0.00|0.00|0.00|2.22|amartinez@itj.edu.mx||mireya-lopez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1966|FID113KGQ1213|del 01 al 19 de noviembre de 2014|0.00|0.00|0.00|0.00|0.00|0.00|0.00|contabilidad2@itjqro.edu.mx||mireya-lopez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1967|FID114TJQ1213|del 01 al 19 de noviembre de 2014|0.00|0.00|0.00|0.00|0.00|0.00|0.00|contabilidad2@itjqro.edu.mx||mireya-lopez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1968|FID115CET1213|del 01 al 19 de noviembre de 2014|0.01|0.00|0.00|0.00|0.00|0.00|0.01|ctorres@bene.com.mx,pguerrero@bene.com.mx,sgutierrez@bene.com.mx||jesus-aceves@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1969|FID116GUI1213|del 01 al 19 de noviembre de 2014|1311.00|0.00|0.00|1311.00|0.00|0.00|0.00|mbasilio@guantes.com.mx||zulema-duran@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|03/nov/2014|ORDEN DE LIQUIDACION| |1311.00|0.00|0.00
+01|1970|FID117SAS1213|del 01 al 19 de noviembre de 2014|0.01|0.00|0.00|0.00|0.00|0.00|0.01|avilleda@gruposas.com.mx,sbarragan@gruposas.com.mx,slara@gruposas.com.mx||jesus-aceves@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1971|FID118MIX1213|del 01 al 19 de noviembre de 2014|0.01|0.00|0.00|0.00|0.00|0.00|0.01|rechumanos@coronahuajuapan.com.mx,contabilidadpicaros@coronahuajuapan.com.mx||jesus-aceves@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1972|FID119MOD1213|del 01 al 19 de noviembre de 2014|84438.21|0.00|100.99|0.00|0.00|0.00|84539.20|rechumanos@coronahuajuapan.com.mx,contabilidad@coronahuajuapan.com.mx||jesus-aceves@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|03/nov/2014|RESTITUCION DE PATRIMONIO| SPEI DEV JUAN SEBASTIAN MORALES VASQUEZ|0.00|100.99|84539.20
+01|1973|FID120GEM1213|del 01 al 19 de noviembre de 2014|0.02|0.00|0.00|0.00|0.00|0.00|0.02|caja_barra@hotmail.com,rechumanos@coronahuajuapan.com.mx||jesus-aceves@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1974|FID121PIN1213|del 01 al 19 de noviembre de 2014|0.00|0.00|0.00|0.00|0.00|0.00|0.00|rechumanos@coronahuajuapan.com.mx,fmargalli@sanramon.com.mx,pacom.oteo@hotmail.com||jesus-aceves@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1975|FID123AVE1213|del 01 al 19 de noviembre de 2014|0.14|0.00|0.00|0.00|0.00|0.00|0.14|rechumanos@coronahuajuapan.com.mx,ramona920@hotmail.com||jesus-aceves@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1976|FID124QUI1213|del 01 al 19 de noviembre de 2014|18091.99|0.00|0.00|11625.89|0.00|0.00|6466.10|avilleda@gruposas.com.mx,vcartagena@controlquimico.com||jesus-aceves@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|03/nov/2014|ORDEN DE LIQUIDACION| |11625.89|0.00|6466.10
+01|1977|FID125ENG1213|del 01 al 19 de noviembre de 2014|471.58|0.00|0.00|0.00|0.00|0.00|471.58|lucy.rosendo@hotmail.com,kyj12202976@hanmail.net||jesus-aceves@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1978|FID126BRI0114|del 01 al 19 de noviembre de 2014|21654.10|0.00|0.00|0.00|0.00|0.00|21654.10|gaby@britanico.mx||alfredo-soto@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1979|FID127OLA0114|del 01 al 19 de noviembre de 2014|0.09|0.00|0.00|0.00|0.00|0.00|0.09|jariza2000@hotmail.com||zulema-duran@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1980|FID128COA0114|del 01 al 19 de noviembre de 2014|0.00|0.00|0.00|0.00|0.00|0.00|0.00|jariza2000@hotmail.com||zulema-duran@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1981|FID129AME0114|del 01 al 19 de noviembre de 2014|0.00|0.00|0.00|0.00|0.00|0.00|0.00|sam.my.1207@hotmail.com||jesus-aceves@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1982|FID130DEP0114|del 01 al 19 de noviembre de 2014|0.01|0.00|0.00|0.00|0.00|0.00|0.01|contabilidad@centrodeportivoespanol.com||jesus-aceves@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1983|FID131MAK0114|del 01 al 19 de noviembre de 2014|5819.36|0.00|0.00|0.00|0.00|0.00|5819.36|sice_a_zambrano@yahoo.com.mx||zulema-duran@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1984|FID133XAL0114|del 01 al 19 de noviembre de 2014|102064.81|0.00|0.00|0.00|0.00|0.00|102064.81|contabilidad@sabalo-xalapa.com.mx||manuel-chavez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1985|FID134PRA0114|del 01 al 19 de noviembre de 2014|98629.79|0.00|0.00|0.00|0.00|0.00|98629.79|contabilidad@sabalo-xalapa.com.mx||manuel-chavez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1986|FID135ENL0114|del 01 al 19 de noviembre de 2014|0.00|0.00|0.00|0.00|0.00|0.00|0.00|contabilidad@sabalo-xalapa.com.mx||manuel-chavez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1987|FID136UNO0114|del 01 al 19 de noviembre de 2014|21646.16|0.00|0.00|0.00|0.00|0.00|21646.16|amonroy@une.edu.mx,crivera@une.edu.mx,svazquez@une.edu.mx||jesus-aceves@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1988|FID137LIS0114|del 01 al 19 de noviembre de 2014|0.01|0.00|0.00|0.00|0.00|0.00|0.01|contabilidad@lister.com.mx||jesus-aceves@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1989|FID138SAN0114|del 01 al 19 de noviembre de 2014|0.01|0.00|0.00|0.00|0.00|0.00|0.01|contabilidad@lister.com.mx||jesus-aceves@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|1990|FID139LIR0114|del 01 al 19 de noviembre de 2014|0.02|0.00|0.00|0.00|0.00|0.00|0.02|contabilidad@lister.com.mx||jesus-aceves@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|2094|FID140CHA0114|del 01 al 19 de noviembre de 2014|0.00|0.00|0.00|0.00|0.00|0.00|0.00|nominas@cchapultepec.edu.mx||yesenia-rodriguez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|2530|FID141KOO0114|del 01 al 19 de noviembre de 2014|10738.35|0.00|151.45|0.00|0.00|0.00|10889.80|mluis@koos.com||rafael-salazar@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|03/nov/2014|RESTITUCION DE PATRIMONIO| SPEI DEVUELTO LUIS GERARDO MARTINEZ SERNA |0.00|151.45|10889.80
+01|2199|FID142MAS0114|del 01 al 19 de noviembre de 2014|2969.49|0.00|0.00|0.00|0.00|0.00|2969.49|eugenia@summma.com||juancarlos-villalobos@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|2095|FID143PCC0214|del 01 al 19 de noviembre de 2014|0.00|0.00|0.00|0.00|0.00|0.00|0.00|yesenia-rodriguez@gp.org.mx||yesenia-rodriguez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|2332|FID144FEA0214|del 01 al 19 de noviembre de 2014|9961.00|0.00|0.00|0.00|0.00|0.00|9961.00|lasibeles@hotmail.com||yesenia-rodriguez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|2200|FID145ILU0214|del 01 al 19 de noviembre de 2014|0.00|0.00|0.00|0.00|0.00|0.00|0.00|gerardo@ilumexico.mx||jair-perez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|2098|FID146BSO0214|del 01 al 19 de noviembre de 2014|0.00|0.00|0.00|0.00|0.00|0.00|0.00|mario@blac.com.mx||jair-perez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|2201|FID147SOL0214|del 01 al 19 de noviembre de 2014|0.00|0.00|0.00|0.00|0.00|0.00|0.00|gerardo@ilumexico.mx||jair-perez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|2099|FID148CHU0214|del 01 al 19 de noviembre de 2014|6.84|0.00|0.00|0.00|0.00|0.00|6.84|adm@chibupamaquinaria.com||yesenia-rodriguez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|2330|FID150HCG0314|del 01 al 19 de noviembre de 2014|0.00|0.00|0.00|0.00|0.00|0.00|0.00|jorge@notariagarciafelix.com||yesenia-rodriguez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|2202|FID151OUT0314|del 01 al 19 de noviembre de 2014|0.00|0.00|0.00|0.00|0.00|0.00|0.00|delia-pacheco@gp.org.mx||caleb-nunez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|2203|FID152SIP0314|del 01 al 19 de noviembre de 2014|0.00|0.00|0.00|0.00|0.00|0.00|0.00|delia-pacheco@gp.org.mx||caleb-nunez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|2204|FID153IPG0314|del 01 al 19 de noviembre de 2014|0.00|0.00|0.00|0.00|0.00|0.00|0.00|delia-pacheco@gp.org.mx||caleb-nunez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|2205|FID154FBO0314|del 01 al 19 de noviembre de 2014|0.00|0.00|0.00|0.00|0.00|0.00|0.00|jorge@notariagarciafelix.com||yesenia-rodriguez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|2207|FID155FEL0314|del 01 al 19 de noviembre de 2014|0.00|0.00|0.00|0.00|0.00|0.00|0.00|jorge@notariagarciafelix.com||yesenia-rodriguez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|2424|FID158AZO0514|del 01 al 19 de noviembre de 2014|0.00|0.00|0.00|0.00|0.00|0.00|0.00|rumbral@ilhuilcamina.com.mx||jair-perez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|2421|FID159PAN0514|del 01 al 19 de noviembre de 2014|0.00|0.00|0.00|0.00|0.00|0.00|0.00|catycontab@fiiller.com||jair-perez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|2509|FID160DYL0514|del 01 al 19 de noviembre de 2014|0.05|0.00|0.00|0.00|0.00|0.00|0.05|adriana_nava_08@hotmail.com||yesenia-rodriguez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|2444|FID161OSA0514|del 01 al 19 de noviembre de 2014|0.30|0.00|0.00|0.00|0.00|0.00|0.30|adriana_nava_08@hotmail.com||yesenia-rodriguez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|2445|FID162ELG0614|del 01 al 19 de noviembre de 2014|74588.59|49992.21|1230.86|0.00|3917.60|626.82|121267.24|makarmen17@hotmail.com||jorge-delgado@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|03/nov/2014|APORTACION A PATRIMONIO| |0.00|49992.21|124580.80
+02|03/nov/2014|HONORARIOS FIDUCIARIOS| |3917.60|0.00|120663.20
+02|03/nov/2014|I.V.A. DE HONORARIOS FIDUCIARIOS| |626.82|0.00|120036.38
+02|03/nov/2014|RESTITUCION DE PATRIMONIO| 5 SPEI DEV 31 de octubre|0.00|1230.86|121267.24
+01|2871|FID163STE0614|del 01 al 19 de noviembre de 2014|7.82|0.00|0.00|0.00|0.00|0.00|7.82|fmosqueda@st-mx.com||VERONICA-MORENO@GP.ORG.MX,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|2840|FID166ILO0714|del 01 al 19 de noviembre de 2014|0.00|0.00|0.00|0.00|0.00|0.00|0.00|ggnenena3190@hotmail.com||NINFA-PICOS@GP.ORG.MX,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|2696|FID168ICE0714|del 01 al 19 de noviembre de 2014|0.00|0.00|0.00|0.00|0.00|0.00|0.00|luis.diaz@brionesflores.com||LUIS.DIAZ@BRIONESFLORES.COM,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|2656|FID169GIN0714|del 01 al 19 de noviembre de 2014|0.04|0.00|0.00|0.00|0.00|0.00|0.04|adriana_nava_08@hotmail.com||yesenia-rodriguez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|3101|FID170ALI0914|del 01 al 19 de noviembre de 2014|0.00|0.00|0.00|0.00|0.00|0.00|0.00|alsa_personal@yahoo.com.mx||caleb-nunez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|3100|FID171ROS0914|del 01 al 19 de noviembre de 2014|0.00|0.00|0.00|0.00|0.00|0.00|0.00|alex_6503@yahoo.com.mx||CALEB-NUNEZ@GP.ORG.MX,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
+01|3099|FID172ASA0914|del 01 al 19 de noviembre de 2014|0.00|0.00|0.00|0.00|0.00|0.00|0.00|ricardomorales987@yahoo.com.mx||caleb-nunez@gp.org.mx,edocta@solucionesmultiples.com.mx
+02|19/nov/2014|NO EXISTEN MOVIMIENTOS|  |0.0|0.0|0.0
